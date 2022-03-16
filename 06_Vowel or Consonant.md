@@ -22,7 +22,7 @@ class VowOrCon
       break;
          
       default:
-       System.out.print(ch + " is constant");
+      System.out.print(ch + " is constant");
      }
   }
 }
