@@ -5,7 +5,7 @@ For ex: 3+4 and 3 + 4 are acceptable expressions.
 
 
 import java.util.Scanner;
-class Practical_13 
+class Calculator
 {
     public static void main(String[] args) 
     {
