@@ -10,7 +10,7 @@ public class Factors
     int div=2;
     Scanner n = new Scanner(System.in);
     System.out.print("Enter Integer Value : ");
-    int number = input.nextInt();
+    int number = n.nextInt();
   
     while(number > 1)
     {
